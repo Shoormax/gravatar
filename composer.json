@@ -1,5 +1,5 @@
 {
-    "name": "gravatarphp/gravatar",
+    "name": "gravatarphp/shoshogravatar",
     "description": "Gravatar URL builder which is most commonly called as a Gravatar library",
     "license": "MIT",
     "keywords": ["gravatar", "avatar", "image", "profile"],
