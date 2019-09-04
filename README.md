@@ -15,7 +15,7 @@
 Via Composer
 
 ``` bash
-$ composer require gravatarphp/gravatar
+$ composer require shoormax/gravatar
 ```
 
 
